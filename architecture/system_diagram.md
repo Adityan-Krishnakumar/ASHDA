@@ -49,7 +49,7 @@ graph TB
 
     %% Styling for Professional Look
     style H fill:#ffcccc,stroke:#ff0000,stroke-width:2px,color:#000000
-    style BLUE ZONE fill:#f0f8ff,stroke:#0055ff,stroke-width:2px,stroke-dasharray: 5 5
+    
     
     %% Specific Black Font Styles for Core Blue Team Components
     style A fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#000000
