@@ -3,7 +3,7 @@ graph TB
     %% Direction: Top to Bottom
     
     subgraph "RED ZONE: External Threat"
-        H["💀 Kali Linux: Hydra/Brute Force"]
+        H[" Kali Linux"]
     end
 
     subgraph "BLUE ZONE: Corporate Infrastructure"
