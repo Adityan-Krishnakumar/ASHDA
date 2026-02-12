@@ -50,6 +50,8 @@ graph TB
     %% Styling for Professional Look
     style H fill:#ffcccc,stroke:#ff0000,stroke-width:2px
     style BLUE ZONE fill:#f0f8ff,stroke:#0055ff,stroke-width:2px,stroke-dasharray: 5 5
-    style M fill:#e1f5fe,stroke:#01579b,stroke-width:2px
-    style A fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px
-    style R fill:#fff9c4,stroke:#fbc02d,stroke-width:2px
+    
+    %% Specific Black Font Styles for Core Components
+    style A fill:#e8f5e9,stroke:#2e7d32,stroke-width:2px,color:#000000
+    style M fill:#e1f5fe,stroke:#01579b,stroke-width:2px,color:#000000
+    style R fill:#fff9c4,stroke:#fbc02d,stroke-width:2px,color:#000000
